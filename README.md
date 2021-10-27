@@ -1,4 +1,6 @@
-### Hi there 👋
+### Howdy 👋
+
+I'm Diego and I enjoy writing/experimenting with code and building things!
 
 <!--
 **weerd/weerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
